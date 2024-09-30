@@ -80,7 +80,7 @@ body {
 .main {
   display: flex;
   flex-direction: column;
-  gap: 0.7rem;
+  gap: 1rem;
 }
 
 .title {
@@ -101,7 +101,7 @@ body {
 .content {
   color: var(--soft-blue);
   font-weight: 300;
-  line-height: 2rem;
+  line-height: 1.5rem;
 }
 
 .icons {

@@ -26,11 +26,6 @@ body {
   align-items: center;
   justify-content: center;
   background-color: var(--very-dark-blue-main-BG);
-  margin: 0;
-
-  font-family: "outfit", sans-serif;
-  font-size: 1.125rem;
-  font-weight: 400;
 }
 
 .card {

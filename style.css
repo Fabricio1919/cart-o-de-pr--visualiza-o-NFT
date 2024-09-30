@@ -31,7 +31,7 @@ body {
 .card {
   background-color: var(--very-dark-blue-card-BG);
   box-shadow: 0 0 8px 10px rgba(0, 0, 0, 0.2);
-  height: 37.7rem;
+  height: 37.6rem;
   width: 22rem;
   border-radius: 1rem;
 }

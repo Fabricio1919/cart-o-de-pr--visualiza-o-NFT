@@ -95,7 +95,6 @@ body {
 
 .title a:hover {
   color: var(--cyan);
-  text-decoration: none;
 }
 
 .content {

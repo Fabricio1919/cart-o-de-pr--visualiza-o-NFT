@@ -84,6 +84,7 @@ body {
 }
 
 .title {
+  margin-top: 0.1rem;
   font-size: 1.3rem;
   text-decoration: none;
 }

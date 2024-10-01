@@ -3,21 +3,12 @@
 
 :root {
   /* Definição de variáveis de cores */
-  --very-dark-blue-main-BG: hsl(
-    217,
-    54%,
-    11%
-  ); /* Fundo principal, azul muito escuro */
-  --very-dark-blue-card-BG: hsl(
-    216,
-    50%,
-    16%
-  ); /* Fundo do cartão, azul escuro */
-  --very-dark-blue-line: hsl(
-    215,
-    32%,
-    27%
-  ); /* Cor da linha divisória, azul escuro */
+  --very-dark-blue-main-BG: hsl(217, 54%, 11%);
+  /* Fundo principal, azul muito escuro */
+  --very-dark-blue-card-BG: hsl(216, 50%, 16%);
+  /* Fundo do cartão, azul escuro */
+  --very-dark-blue-line: hsl(215, 32%, 27%);
+  /* Cor da linha divisória, azul escuro */
   --white: hsl(0, 0%, 100%); /* Cor branca */
   --soft-blue: hsl(215, 51%, 70%); /* Azul suave para texto */
   --cyan: hsl(178, 100%, 50%); /* Ciano para destaques */
